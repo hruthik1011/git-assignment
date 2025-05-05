@@ -17,4 +17,9 @@ and pulled the changes to local repository
 created a new branch named feature/update-readme
 made changes in the readme file and updated about the assignment 2
 Created a pull request from "feature/update-readme" to main branch
+merged the pull request
+
+•	Screenshot of the successful pull request and merge
+![image](https://github.com/user-attachments/assets/2aff14ce-811a-4eab-bdf5-e0ec8787d550)
+
 

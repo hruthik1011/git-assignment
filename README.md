@@ -9,4 +9,12 @@ the deliverables from assignment-1
 Use git diff to examine differences between commits:
 ![image](https://github.com/user-attachments/assets/0304d909-859f-481c-900c-10c91ac3d8e9)
 
+from assignment-2
+we created a github account and create a new repository
+we pushed our local repository to gitHub
+and create a README.md file on GitHub interface and committed changes directly on main branch from github
+and pulled the changes to local repository
+created a new branch named feature/update-readme
+made changes in the readme file and updated about the assignment 2
+Created a pull request from "feature/update-readme" to main branch
 
